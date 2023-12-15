@@ -1,3 +1,4 @@
+package consoles.konsole;
 public interface CommandListener {
     void commandOutput(String text);
 

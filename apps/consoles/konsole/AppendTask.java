@@ -1,3 +1,4 @@
+package consoles.konsole;
 public class AppendTask implements Runnable {
 
     private Terminal terminal;
